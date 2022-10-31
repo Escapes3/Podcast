@@ -1112,4 +1112,16 @@ a {
   .slidecontainer {
     display: none;
   }
+
+
+@media only screen and (max-width: 500px) {
+.pcast-mute {
+  display:none;
+ }
+
+  .eptext {
+    margin: 0px -224px 78px 0px;
+  }
+
+}
 }
